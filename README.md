@@ -1,16 +1,5 @@
-# violet-ice-light-theme README
+# Violet Ice Light Theme for VSCode
 
-## Working with Markdown
+First swing at a custom theme, strong colors and simple highlighting - this is not yet published but can be installed locally, just download the file from `./builds/` and run `Extension: Install from VSIX...` to get it going
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Will likely capture screenshots when this is ready for publishings
