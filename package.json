@@ -1,0 +1,27 @@
+{
+  "name": "violet-ice-light-theme",
+  "displayName": "Violet Ice Light Theme",
+  "description": "A light theme with bold cool colors, inspired by Arturia music hardware",
+  "version": "1.0.1",
+  "scripts": {
+    "start": "echo Edit the theme, use 'npm run build' to generate the vsix file",
+    "build": "vsce package && mv *.vsix builds/ && echo 'Build complete, check builds folder!'",
+    "setup-tools": "npm i -g @vscode/vsce"
+  },
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "category": "themes",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Violet Ice Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Violet Ice Light Theme-color-theme.json"
+      }
+    ]
+  }
+}
